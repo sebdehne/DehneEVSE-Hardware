@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name EVChargingStation)(type KiCad)(uri ${KIPRJMOD}/parts/EVChargingStation.pretty)(options "")(descr ""))
+)
