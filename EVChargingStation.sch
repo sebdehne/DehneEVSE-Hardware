@@ -6,7 +6,7 @@ encoding utf-8
 Sheet 1 1
 Title "Dehne EV Charging Station"
 Date "2021-02-20"
-Rev "1"
+Rev "1.2"
 Comp "dehnes.com"
 Comment1 ""
 Comment2 ""
@@ -1723,4 +1723,29 @@ Wire Wire Line
 Connection ~ 9750 3850
 Wire Wire Line
 	9750 3850 10650 3850
+$Comp
+L power:GND #PWR0130
+U 1 1 60347ADD
+P 1900 2100
+F 0 "#PWR0130" H 1900 1850 50  0001 C CNN
+F 1 "GND" H 1905 1927 50  0000 C CNN
+F 2 "" H 1900 2100 50  0001 C CNN
+F 3 "" H 1900 2100 50  0001 C CNN
+	1    1900 2100
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	1800 1400 1900 1400
+Wire Wire Line
+	1900 1400 1900 1600
+Wire Wire Line
+	1800 1600 1900 1600
+Connection ~ 1900 1600
+Wire Wire Line
+	1900 1600 1900 1800
+Wire Wire Line
+	1800 1800 1900 1800
+Connection ~ 1900 1800
+Wire Wire Line
+	1900 1800 1900 2100
 $EndSCHEMATC
