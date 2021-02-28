@@ -1,6 +1,6 @@
 # EvChargingStationHardware
 
-KiCad design files of a controller board for Type-2 charging (IEC 61851) of EVs. It is based on [Arduino Nano 33 IoT](https://store.arduino.cc/arduino-nano-33-iot).
+KiCad design files of a controller board for Type-2 charging (IEC 61851) of EVs. It is based on [Arduino Nano 33 IoT](https://store.arduino.cc/arduino-nano-33-iot). See [EvChargingStationFirmware](https://github.com/sebdehne/EvChargingStationFirmware) for firmware.
 
 Hardware features:
 - Control Pilot (CP) circuit (borrowed from [OpenEVSE](https://github.com/OpenEVSE/OpenEVSE_PLUS)).
