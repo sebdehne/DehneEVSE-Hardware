@@ -11,3 +11,16 @@ Not implemented features:
 - No ground fault detection included. Use an external Type-B GFCI
 - No driver for motorised interlock (to lock the charging cable in the type-2 socket)
 
+## Changelog
+
+### Revision 1.3 (wip)
+
+- Voltage divider on non-inverting input @ U3 is now 3.3V based  
+- Change the Proximity Pilot: R2 is now 1k and is moved down to D1 (which is removed)
+- Proper termination of 2nd channel for U3 LF353P op-amp
+
+### Revision 1.2
+
+- Connected available pins on Mains-connector J1 to GND for PE connection
+- Fixed several unconnected traces
+- Made drill holes for 3.5mm mini-jack (J3, J4 & J5) connectors round
