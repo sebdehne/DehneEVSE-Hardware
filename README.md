@@ -13,11 +13,13 @@ Not implemented features:
 
 ## Changelog
 
-### Revision 1.3 (wip)
+### Revision 1.3
 
 - Voltage divider on non-inverting input @ U3 is now 3.3V based  
-- Change the Proximity Pilot: R2 is now 1k and is moved down to D1 (which is removed)
+- Proximity Pilot: R2 is now 1k and is moved down to D1 (which is removed)
 - Proper termination of 2nd channel for U3 LF353P op-amp
+- Simplified Voltage- and Current sens circuits
+- Contactor is driven by L1 and not L3 (for single-phase installations)
 
 ### Revision 1.2
 
