@@ -330,10 +330,10 @@
     (fp_text value 1N4148 (at 3.81 2.12) (layer F.Fab)
       (effects (font (size 1 1) (thickness 0.15)))
     )
-    (fp_text user K (at 0 2) (layer F.SilkS)
+    (fp_text user K (at 0 2) (layer F.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)))
     )
-    (fp_text user K (at 0 -1.8) (layer F.Fab)
+    (fp_text user K (at 0 -1.8) (layer F.Fab) hide
       (effects (font (size 1 1) (thickness 0.15)))
     )
     (fp_text user %R (at 4.11 0) (layer F.Fab)
@@ -3728,7 +3728,7 @@
   (segment (start 192.645 121.665) (end 192.645 120.145) (width 0.6) (layer F.Cu) (net 58))
   (segment (start 233 135.965) (end 233 132.79) (width 0.6) (layer F.Cu) (net 59))
 
-  (zone (net 1) (net_name GND) (layer B.Cu) (tstamp 6049C907) (hatch edge 0.508)
+  (zone (net 1) (net_name GND) (layer B.Cu) (tstamp 6049EACF) (hatch edge 0.508)
     (connect_pads (clearance 0.508))
     (min_thickness 0.254)
     (fill yes (arc_segments 32) (thermal_gap 0.508) (thermal_bridge_width 0.508))
