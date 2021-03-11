@@ -14,12 +14,12 @@ Comment3 ""
 Comment4 ""
 $EndDescr
 $Comp
-L EVChargingStationParts:IRM-05-5 U2
+L DehneEVSESymbols:IRM-05-5 U2
 U 1 1 6032F4DA
 P 4750 1900
 F 0 "U2" H 4750 2367 50  0000 C CNN
 F 1 "IRM-05-5" H 4750 2276 50  0000 C CNN
-F 2 "EVChargingStation:CONV_IRM-05-5" H 4750 1900 50  0001 L BNN
+F 2 "DehneEVSEFootPrints:CONV_IRM-05-5" H 4750 1900 50  0001 L BNN
 F 3 "" H 4750 1900 50  0001 L BNN
 F 4 "None" H 4750 1900 50  0001 L BNN "PRICE"
 F 5 "MEAN WELL" H 4750 1900 50  0001 L BNN "MF"
@@ -189,12 +189,12 @@ F 3 "" H 8950 2150 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L EVChargingStationParts:Relay_NO K1
+L DehneEVSESymbols:Relay_NO K1
 U 1 1 6034E03E
 P 7650 4500
 F 0 "K1" V 7450 4800 60  0000 R CNN
 F 1 "G5NB-1A Relay 5VDC" V 8000 5650 60  0000 R CNN
-F 2 "EVChargingStation:Omron-GSNB-1A" H 7650 4500 60  0001 C CNN
+F 2 "DehneEVSEFootPrints:Omron-GSNB-1A" H 7650 4500 60  0001 C CNN
 F 3 "" H 7650 4500 60  0000 C CNN
 	1    7650 4500
 	0    1    -1   0   
@@ -405,12 +405,12 @@ Wire Wire Line
 Wire Wire Line
 	1950 2350 1800 2350
 $Comp
-L EVChargingStationParts:VB_05-1-12 T1
+L DehneEVSESymbols:VB_05-1-12 T1
 U 1 1 60521BCF
 P 2300 6300
 F 0 "T1" H 2050 6550 50  0000 C CNN
 F 1 "VB_05-1-12" H 2250 6050 50  0000 C CNN
-F 2 "EVChargingStation:VB_05-1-12" H 2200 6300 50  0001 C CNN
+F 2 "DehneEVSEFootPrints:VB_05-1-12" H 2200 6300 50  0001 C CNN
 F 3 "" H 2200 6300 50  0001 C CNN
 	1    2300 6300
 	1    0    0    -1  
@@ -454,12 +454,12 @@ VOLTAGE_SENS_L2_READ
 Text GLabel 3900 4200 0    50   Input ~ 0
 VOLTAGE_SENS_L3_READ
 $Comp
-L EVChargingStationParts:FC68131 J3
+L DehneEVSESymbols:FC68131 J3
 U 1 1 606C7A4E
 P 1450 3150
 F 0 "J3" H 1494 3331 50  0000 C CNN
 F 1 "FC68131" H 1494 3240 50  0000 C CNN
-F 2 "EVChargingStation:CLIFF_FC68131" H 1450 3150 50  0001 L BNN
+F 2 "DehneEVSEFootPrints:CLIFF_FC68131" H 1450 3150 50  0001 L BNN
 F 3 "" H 1450 3150 50  0001 L BNN
 F 4 "6.00 mm" H 1450 3150 50  0001 L BNN "MAXIMUM_PACKAGE_HEIGHT"
 F 5 "Cliff" H 1450 3150 50  0001 L BNN "MANUFACTURER"
@@ -469,12 +469,12 @@ F 7 "Manufacturer Recommendations" H 1450 3150 50  0001 L BNN "STANDARD"
 	1    0    0    -1  
 $EndComp
 $Comp
-L EVChargingStationParts:FC68131 J4
+L DehneEVSESymbols:FC68131 J4
 U 1 1 606C8ED9
 P 1450 3650
 F 0 "J4" H 1494 3831 50  0000 C CNN
 F 1 "FC68131" H 1494 3740 50  0000 C CNN
-F 2 "EVChargingStation:CLIFF_FC68131" H 1450 3650 50  0001 L BNN
+F 2 "DehneEVSEFootPrints:CLIFF_FC68131" H 1450 3650 50  0001 L BNN
 F 3 "" H 1450 3650 50  0001 L BNN
 F 4 "6.00 mm" H 1450 3650 50  0001 L BNN "MAXIMUM_PACKAGE_HEIGHT"
 F 5 "Cliff" H 1450 3650 50  0001 L BNN "MANUFACTURER"
@@ -484,12 +484,12 @@ F 7 "Manufacturer Recommendations" H 1450 3650 50  0001 L BNN "STANDARD"
 	1    0    0    -1  
 $EndComp
 $Comp
-L EVChargingStationParts:FC68131 J5
+L DehneEVSESymbols:FC68131 J5
 U 1 1 606C9CAA
 P 1450 4150
 F 0 "J5" H 1494 4331 50  0000 C CNN
 F 1 "FC68131" H 1494 4240 50  0000 C CNN
-F 2 "EVChargingStation:CLIFF_FC68131" H 1450 4150 50  0001 L BNN
+F 2 "DehneEVSEFootPrints:CLIFF_FC68131" H 1450 4150 50  0001 L BNN
 F 3 "" H 1450 4150 50  0001 L BNN
 F 4 "6.00 mm" H 1450 4150 50  0001 L BNN "MAXIMUM_PACKAGE_HEIGHT"
 F 5 "Cliff" H 1450 4150 50  0001 L BNN "MANUFACTURER"
@@ -608,12 +608,12 @@ Wire Wire Line
 	7750 2250 7750 2200
 Connection ~ 7250 2250
 $Comp
-L EVChargingStationParts:ABX00027 U1
+L DehneEVSESymbols:ABX00027 U1
 U 1 1 603AB8EE
 P 4750 3800
 F 0 "U1" H 4750 4967 50  0000 C CNN
 F 1 "Arduino Nano 33 IoT" H 4750 4876 50  0000 C CNN
-F 2 "EVChargingStation:Arduino Nano - THT" H 2700 4650 50  0001 L BNN
+F 2 "DehneEVSEFootPrints:Arduino Nano - THT" H 2700 4650 50  0001 L BNN
 F 3 "" H 4750 3800 50  0001 L BNN
 F 4 "ATSAMD21G18A Arduino Nano 33 IoT SAM D ARM® Cortex®-M0+ MCU 32-Bit Embedded Evaluation Board" H 2650 2600 50  0001 L BNN "DESCRIPTION"
 	1    4750 3800
@@ -639,7 +639,7 @@ Wire Wire Line
 	5550 4600 5550 4700
 Connection ~ 5550 4700
 $Comp
-L EVChargingStationParts:mcp6291-e_p-nd U4
+L DehneEVSESymbols:mcp6291-e_p-nd U4
 U 1 1 6047606D
 P 2600 8650
 F 0 "U4" H 2650 8500 50  0000 L CNN
@@ -687,23 +687,12 @@ Connection ~ 8800 2100
 Wire Wire Line
 	8800 2100 8800 2200
 $Comp
-L EVChargingStationParts:LF353P U3
-U 1 1 605C9FC7
-P 10750 1900
-F 0 "U3" H 10750 2100 50  0000 L CNN
-F 1 "LT1498IN8#PBF" H 10550 1650 50  0000 L CNN
-F 2 "Package_DIP:DIP-8_W7.62mm" H 10750 1900 50  0001 C CNN
-F 3 "https://www.ti.com/lit/ds/slos012c/slos012c.pdf?ts=1615223850164" H 10750 1900 50  0001 C CNN
-	1    10750 1900
-	1    0    0    -1  
-$EndComp
-$Comp
-L EVChargingStationParts:Connector1 J1
+L DehneEVSESymbols:Connector1 J1
 U 1 1 6077AEE9
 P 1500 2100
 F 0 "J1" H 1533 2675 50  0000 C CNN
 F 1 "Connector1" H 1533 2584 50  0000 C CNN
-F 2 "EVChargingStation:conn_08x02_wago" H 2000 2150 50  0001 C CNN
+F 2 "DehneEVSEFootPrints:conn_08x02_wago" H 2000 2150 50  0001 C CNN
 F 3 "" H 2000 2150 50  0001 C CNN
 	1    1500 2100
 	1    0    0    -1  
@@ -712,17 +701,6 @@ Text GLabel 8600 1700 1    50   Input ~ 0
 +12VDC
 Text GLabel 8600 2500 3    50   Input ~ 0
 -12VDC
-$Comp
-L EVChargingStationParts:LF353P U3
-U 2 1 60422890
-P 10800 3050
-F 0 "U3" H 10850 3250 50  0000 C CNN
-F 1 "LT1498IN8#PBF" H 10850 2800 50  0000 C CNN
-F 2 "Package_DIP:DIP-8_W7.62mm" H 10800 3050 50  0001 C CNN
-F 3 "https://www.ti.com/lit/ds/slos012c/slos012c.pdf?ts=1615223850164" H 10800 3050 50  0001 C CNN
-	2    10800 3050
-	1    0    0    -1  
-$EndComp
 Wire Wire Line
 	10450 1800 10400 1800
 Wire Wire Line
@@ -763,17 +741,6 @@ Wire Wire Line
 	10500 2950 10300 2950
 Wire Wire Line
 	10300 2950 10300 3000
-$Comp
-L EVChargingStationParts:LF353P U3
-U 3 1 60523284
-P 9400 2100
-F 0 "U3" H 9400 2300 50  0000 L CNN
-F 1 "LT1498IN8#PBF" H 9400 1950 50  0000 L CNN
-F 2 "Package_DIP:DIP-8_W7.62mm" H 9400 2100 50  0001 C CNN
-F 3 "https://www.ti.com/lit/ds/slos012c/slos012c.pdf?ts=1615223850164" H 9400 2100 50  0001 C CNN
-	3    9400 2100
-	1    0    0    -1  
-$EndComp
 Text GLabel 5600 3100 2    50   Input ~ 0
 +3V3
 Wire Wire Line
@@ -862,12 +829,12 @@ Wire Wire Line
 Wire Wire Line
 	2500 8350 2500 8200
 $Comp
-L EVChargingStationParts:VB_05-1-12 T2
+L DehneEVSESymbols:VB_05-1-12 T2
 U 1 1 6083B3E5
 P 5350 6300
 F 0 "T2" H 5100 6550 50  0000 C CNN
 F 1 "VB_05-1-12" H 5300 6050 50  0000 C CNN
-F 2 "EVChargingStation:VB_05-1-12" H 5250 6300 50  0001 C CNN
+F 2 "DehneEVSEFootPrints:VB_05-1-12" H 5250 6300 50  0001 C CNN
 F 3 "" H 5250 6300 50  0001 C CNN
 	1    5350 6300
 	1    0    0    -1  
@@ -949,12 +916,12 @@ Connection ~ 6200 6700
 Wire Wire Line
 	6200 6700 6200 6750
 $Comp
-L EVChargingStationParts:VB_05-1-12 T3
+L DehneEVSESymbols:VB_05-1-12 T3
 U 1 1 608499D2
 P 8400 6300
 F 0 "T3" H 8150 6550 50  0000 C CNN
 F 1 "VB_05-1-12" H 8350 6050 50  0000 C CNN
-F 2 "EVChargingStation:VB_05-1-12" H 8300 6300 50  0001 C CNN
+F 2 "DehneEVSEFootPrints:VB_05-1-12" H 8300 6300 50  0001 C CNN
 F 3 "" H 8300 6300 50  0001 C CNN
 	1    8400 6300
 	1    0    0    -1  
@@ -1086,7 +1053,7 @@ CUR_SENS_L2
 Wire Wire Line
 	5550 8650 5600 8650
 $Comp
-L EVChargingStationParts:mcp6291-e_p-nd U5
+L DehneEVSESymbols:mcp6291-e_p-nd U5
 U 1 1 608C29C3
 P 5250 8650
 F 0 "U5" H 5300 8500 50  0000 L CNN
@@ -1169,7 +1136,7 @@ CUR_SENS_L3
 Wire Wire Line
 	8250 8650 8300 8650
 $Comp
-L EVChargingStationParts:mcp6291-e_p-nd U6
+L DehneEVSESymbols:mcp6291-e_p-nd U6
 U 1 1 608D1798
 P 7950 8650
 F 0 "U6" H 8000 8500 50  0000 L CNN
@@ -1279,5 +1246,38 @@ F 2 "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal" V 10130 180
 F 3 "~" H 10200 1800 50  0001 C CNN
 	1    10200 1800
 	-1   0    0    1   
+$EndComp
+$Comp
+L DehneEVSESymbols:LT1498IN8 U3
+U 1 1 604B399B
+P 10750 1900
+F 0 "U3" H 10750 2267 50  0000 C CNN
+F 1 "LT1498IN8" H 10750 2176 50  0000 C CNN
+F 2 "Package_DIP:DIP-8_W7.62mm" H 10750 1900 50  0001 C CNN
+F 3 "https://www.analog.com/media/en/technical-documentation/data-sheets/14989fg.pdf" H 10750 1900 50  0001 C CNN
+	1    10750 1900
+	1    0    0    -1  
+$EndComp
+$Comp
+L DehneEVSESymbols:LT1498IN8 U3
+U 2 1 604B4851
+P 10800 3050
+F 0 "U3" H 10800 3417 50  0000 C CNN
+F 1 "LT1498IN8" H 10800 3326 50  0000 C CNN
+F 2 "Package_DIP:DIP-8_W7.62mm" H 10800 3050 50  0001 C CNN
+F 3 "https://www.analog.com/media/en/technical-documentation/data-sheets/14989fg.pdf" H 10800 3050 50  0001 C CNN
+	2    10800 3050
+	1    0    0    -1  
+$EndComp
+$Comp
+L DehneEVSESymbols:LT1498IN8 U3
+U 3 1 604B5141
+P 9400 2100
+F 0 "U3" H 9630 2146 50  0000 L CNN
+F 1 "LT1498IN8" H 9630 2055 50  0000 L CNN
+F 2 "Package_DIP:DIP-8_W7.62mm" H 9400 2100 50  0001 C CNN
+F 3 "https://www.analog.com/media/en/technical-documentation/data-sheets/14989fg.pdf" H 9400 2100 50  0001 C CNN
+	3    9400 2100
+	1    0    0    -1  
 $EndComp
 $EndSCHEMATC
