@@ -1248,10 +1248,10 @@ F 3 "~" H 10200 1800 50  0001 C CNN
 	-1   0    0    1   
 $EndComp
 $Comp
-L DehneEVSESymbols:LT1498IN8 U?
+L DehneEVSESymbols:LT1498IN8 U3
 U 1 1 604B399B
 P 10750 1900
-F 0 "U?" H 10750 2267 50  0000 C CNN
+F 0 "U3" H 10750 2267 50  0000 C CNN
 F 1 "LT1498IN8" H 10750 2176 50  0000 C CNN
 F 2 "Package_DIP:DIP-8_W7.62mm" H 10750 1900 50  0001 C CNN
 F 3 "https://www.analog.com/media/en/technical-documentation/data-sheets/14989fg.pdf" H 10750 1900 50  0001 C CNN
@@ -1259,10 +1259,10 @@ F 3 "https://www.analog.com/media/en/technical-documentation/data-sheets/14989fg
 	1    0    0    -1  
 $EndComp
 $Comp
-L DehneEVSESymbols:LT1498IN8 U?
+L DehneEVSESymbols:LT1498IN8 U3
 U 2 1 604B4851
 P 10800 3050
-F 0 "U?" H 10800 3417 50  0000 C CNN
+F 0 "U3" H 10800 3417 50  0000 C CNN
 F 1 "LT1498IN8" H 10800 3326 50  0000 C CNN
 F 2 "Package_DIP:DIP-8_W7.62mm" H 10800 3050 50  0001 C CNN
 F 3 "https://www.analog.com/media/en/technical-documentation/data-sheets/14989fg.pdf" H 10800 3050 50  0001 C CNN
@@ -1270,10 +1270,10 @@ F 3 "https://www.analog.com/media/en/technical-documentation/data-sheets/14989fg
 	1    0    0    -1  
 $EndComp
 $Comp
-L DehneEVSESymbols:LT1498IN8 U?
+L DehneEVSESymbols:LT1498IN8 U3
 U 3 1 604B5141
 P 9400 2100
-F 0 "U?" H 9630 2146 50  0000 L CNN
+F 0 "U3" H 9630 2146 50  0000 L CNN
 F 1 "LT1498IN8" H 9630 2055 50  0000 L CNN
 F 2 "Package_DIP:DIP-8_W7.62mm" H 9400 2100 50  0001 C CNN
 F 3 "https://www.analog.com/media/en/technical-documentation/data-sheets/14989fg.pdf" H 9400 2100 50  0001 C CNN
