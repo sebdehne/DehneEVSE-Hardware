@@ -1,4 +1,4 @@
-19156016754217833
+19157634827668833
 Battery
 BatteryHolder_Bulgin_BX0036_1xC
 Bulgin Battery Holder, BX0036, Battery Type C (https://www.bulgin.com/products/pub/media/bulgin/data/Battery_holders.pdf)
@@ -48771,6 +48771,13 @@ THT ceramic resonator filter DSS6
 DehneEVSEFootPrints
 Arduino Nano - THT
 
+
+0
+30
+30
+DehneEVSEFootPrints
+Arduino_Nano_33_iot__SMT
+Arduino Nano 33 iot - SMT
 
 0
 30
