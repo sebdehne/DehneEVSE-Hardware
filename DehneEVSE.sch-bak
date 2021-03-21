@@ -749,7 +749,7 @@ U 2 1 60576D3A
 P 3300 7800
 F 0 "U4" H 3150 8000 50  0000 C CNN
 F 1 "MCP602T" H 3250 7550 50  0000 C CNN
-F 2 "Package_DIP:DIP-8_W7.62mm" H 3300 7800 50  0001 C CNN
+F 2 "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm" H 3300 7800 50  0001 C CNN
 F 3 "https://www.analog.com/media/en/technical-documentation/data-sheets/14989fg.pdf" H 3300 7800 50  0001 C CNN
 	2    3300 7800
 	1    0    0    -1  
@@ -760,7 +760,7 @@ U 1 1 60577DE5
 P 3300 6550
 F 0 "U4" H 3150 6800 50  0000 C CNN
 F 1 "MCP602T" H 3250 6350 50  0000 C CNN
-F 2 "Package_DIP:DIP-8_W7.62mm" H 3300 6550 50  0001 C CNN
+F 2 "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm" H 3300 6550 50  0001 C CNN
 F 3 "https://www.analog.com/media/en/technical-documentation/data-sheets/14989fg.pdf" H 3300 6550 50  0001 C CNN
 	1    3300 6550
 	1    0    0    -1  
@@ -771,7 +771,7 @@ U 3 1 60578C4C
 P 1650 7800
 F 0 "U4" H 1450 8000 50  0000 L CNN
 F 1 "MCP602T" H 1450 7600 50  0000 L CNN
-F 2 "Package_DIP:DIP-8_W7.62mm" H 1650 7800 50  0001 C CNN
+F 2 "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm" H 1650 7800 50  0001 C CNN
 F 3 "https://www.analog.com/media/en/technical-documentation/data-sheets/14989fg.pdf" H 1650 7800 50  0001 C CNN
 	3    1650 7800
 	1    0    0    -1  
@@ -1013,7 +1013,7 @@ U 3 1 60841FDC
 P 6000 7800
 F 0 "U5" H 5850 8000 50  0000 C CNN
 F 1 "MCP602T" H 5950 7550 50  0000 C CNN
-F 2 "Package_DIP:DIP-8_W7.62mm" H 6000 7800 50  0001 C CNN
+F 2 "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm" H 6000 7800 50  0001 C CNN
 F 3 "https://www.analog.com/media/en/technical-documentation/data-sheets/14989fg.pdf" H 6000 7800 50  0001 C CNN
 	3    6000 7800
 	1    0    0    -1  
@@ -1024,7 +1024,7 @@ U 1 1 60841FE6
 P 7650 6550
 F 0 "U5" H 7500 6800 50  0000 C CNN
 F 1 "MCP602T" H 7600 6350 50  0000 C CNN
-F 2 "Package_DIP:DIP-8_W7.62mm" H 7650 6550 50  0001 C CNN
+F 2 "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm" H 7650 6550 50  0001 C CNN
 F 3 "https://www.analog.com/media/en/technical-documentation/data-sheets/14989fg.pdf" H 7650 6550 50  0001 C CNN
 	1    7650 6550
 	1    0    0    -1  
@@ -1035,7 +1035,7 @@ U 2 1 60841FF0
 P 7650 7800
 F 0 "U5" H 7450 8000 50  0000 L CNN
 F 1 "MCP602T" H 7450 7600 50  0000 L CNN
-F 2 "Package_DIP:DIP-8_W7.62mm" H 7650 7800 50  0001 C CNN
+F 2 "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm" H 7650 7800 50  0001 C CNN
 F 3 "https://www.analog.com/media/en/technical-documentation/data-sheets/14989fg.pdf" H 7650 7800 50  0001 C CNN
 	2    7650 7800
 	1    0    0    -1  
@@ -1244,7 +1244,7 @@ U 3 1 6084FD95
 P 10350 7800
 F 0 "U6" H 10200 8000 50  0000 C CNN
 F 1 "MCP602T" H 10300 7550 50  0000 C CNN
-F 2 "Package_DIP:DIP-8_W7.62mm" H 10350 7800 50  0001 C CNN
+F 2 "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm" H 10350 7800 50  0001 C CNN
 F 3 "https://www.analog.com/media/en/technical-documentation/data-sheets/14989fg.pdf" H 10350 7800 50  0001 C CNN
 	3    10350 7800
 	1    0    0    -1  
@@ -1255,7 +1255,7 @@ U 1 1 6084FD9F
 P 12000 6550
 F 0 "U6" H 11850 6800 50  0000 C CNN
 F 1 "MCP602T" H 11950 6350 50  0000 C CNN
-F 2 "Package_DIP:DIP-8_W7.62mm" H 12000 6550 50  0001 C CNN
+F 2 "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm" H 12000 6550 50  0001 C CNN
 F 3 "https://www.analog.com/media/en/technical-documentation/data-sheets/14989fg.pdf" H 12000 6550 50  0001 C CNN
 	1    12000 6550
 	1    0    0    -1  
@@ -1266,7 +1266,7 @@ U 2 1 6084FDA9
 P 12000 7800
 F 0 "U6" H 11800 8000 50  0000 L CNN
 F 1 "MCP602T" H 11800 7600 50  0000 L CNN
-F 2 "Package_DIP:DIP-8_W7.62mm" H 12000 7800 50  0001 C CNN
+F 2 "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm" H 12000 7800 50  0001 C CNN
 F 3 "https://www.analog.com/media/en/technical-documentation/data-sheets/14989fg.pdf" H 12000 7800 50  0001 C CNN
 	2    12000 7800
 	1    0    0    -1  
