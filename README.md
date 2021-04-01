@@ -6,45 +6,8 @@ See [DehneEVSE-Firmware](https://github.com/sebdehne/DehneEVSE-Firmware) for fir
 
 See [Schematic](Media/schematic.pdf) and [3d-view](Media/PCB-3d-view.png).
 
-Hardware features:
-
-- Control Pilot (CP) circuit.
-- Proximity Pilot (PP) support for Socket outlets.
-- Reads charging power by measuring both voltage and current on all three phases.
-
-Not implemented features:
-
-- No ground fault detection included. Use an external Type-B GFCI
-- No driver for motorised interlock (to lock the charging cable in the type-2 socket)
-
-### Bill of Materials (BOM)
-
-| Reference                 | Part                           |
-| ------------------------- | ------------------------------:|
-| C1, C2                    | 1uf                            | 
-| C3                        | 2.2uf/50V                      |
-| D1, D2, D4, D5, D6        | 1N4148                         |
-| D3                        | TVS-P6KE16CA                   |
-| J1                        | Wago 256-408                   |
-| J3, J4, J5                | FC68131 3.5mm jack             | 
-| K1                        | G5NB-1A Relay 5VDC             |
-| L1                        | 18uH                           |
-| PS1                       | NMA0512SC                      |
-| Q1                        | PN2222A                        |
-| R1, R2, R6                | 1k                             |
-| R3                        | 330                            |
-| R4, R5                    | 120k                           |
-| R7                        | 180k                           |
-| R8                        | 47k                            |
-| R9, R13, R17              | 100k                           |
-| R10-R12, R14-R16, R18-R20 | 10k                            |
-| T1, T2, T3                | VB_05-1-12                     |
-| U1                        | Arduino Nano 33 IoT            |
-| U2                        | NMA0512SC DC/DC 5V -> -12,+12V |
-| U3                        | LT1498IN8                      |
-| U4, U5, U6                | MCP602T                        |
-
-
+See [DehneEVSE EV Charging Station](https://dehnes.com/electronics/2021/03/31/dehneevse_charging_station.html) for more 
+information on the entire setup.
 
 
 
